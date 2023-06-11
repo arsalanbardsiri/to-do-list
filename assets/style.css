@@ -1,20 +1,21 @@
-#todo-app {
-    /* Add styling for the todo app container */
-  }
-  
-  h1 {
-    /* Add styling for the heading */
-  }
-  
-  form {
-    /* Add styling for the task form */
-  }
-  
-  ul {
-    /* Add styling for the task list */
-  }
-  
-  li {
-    /* Add styling for each task item */
-  }
-  
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {}
+
+header {}
+
+main {}
+
+#todo-app {}
+
+#task-form {}
+
+#task-form label {}
+
+#task-input {}
+
+#task-list {}
+
+footer {}
